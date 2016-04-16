@@ -1,0 +1,3 @@
+* Web Jobs / App Insights as related services to App Services
+* IoT Hubs
+* IaaS vs PaaS intro during VM explanation
